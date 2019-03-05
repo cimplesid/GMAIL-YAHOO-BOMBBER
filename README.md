@@ -4,7 +4,7 @@
 ##  <a href="https://bit.ly/sidtubesub">SUBSCRIBE ME ON YOUTUBE</a>
 ##  <a href="https://www.instagram.com/cimplesid">FOLLOW ON INSTAGRAM</a>
 ### USE AT YOUR OWN RISK
-### ENABLE LESS SECURE APP FOR USES IN GMAIL
+### ENABLE LESS SECURE APP FOR  GMAIL from <a href="https://myaccount.google.com/lesssecureapps"> HERE </a>
 ### USES:
 
 ```
