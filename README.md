@@ -8,8 +8,9 @@
 ### USES:
 
 ```
- chmod 777 emailbomb.py
- py emailbomb.py
+pip install -r requirement.txt
+chmod +x emailbomb.py
+ python emailbomb.py
  ```  
  
  # ** DO NOT COPY AND CHANGE THE CODE YOU CAN FORK AND USE IT LEGALLY DONT BE NOOB**
