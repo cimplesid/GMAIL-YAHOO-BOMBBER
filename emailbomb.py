@@ -8,8 +8,9 @@ import pyfiglet
 import os
 
 
-_banner = pyfiglet.figlet_format("SIDTUBE")
+_banner = pyfiglet.figlet_format("EMAIL BOMBER ")
 print(_banner)
+print'\nV1.0 bY SIDTUBE '
 server = raw_input ('Server Gmail/Yahoo: ')
 user = raw_input('Your Email: ')
 passwd = getpass.getpass('Password: ')
